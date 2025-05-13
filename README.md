@@ -7,7 +7,6 @@ p align="left"> <img src="https://komarev.com/ghpvc/?username=niquequirino&label
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://dev.to/niquequirino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="niquequirino" height="30" width="40" /></a>
 <a href="https://instagram.com/nique.quirino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nique.quirino" height="30" width="40" /></a>
 </p>
 
