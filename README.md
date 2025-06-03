@@ -1,8 +1,9 @@
 # 👻 Bem-vindo ao meu perfil!
 
-<img src="ghost_animation.gif" width="100"/>
 
-Olá! Eu sou apaixonado por tecnologia, criatividade e pixel art.  
+![pixel-gif](https://github.com/seu-usuario/seu-usuario/blob/main/581a5d61-33b2-41ed-bd11-d256f564b713.png)
+
+Olá, estou estudando Desenvolvimento de Sistema!
 Aqui você vai encontrar meus projetos, estudos e ideias malucas ganhando forma!
 
 
@@ -11,5 +12,5 @@ Aqui você vai encontrar meus projetos, estudos e ideias malucas ganhando forma!
 
 ---
 
-**“Não tenha medo de criar. Até os fantasmas estão de olho em você.”**
+**“Não tenha medo de criar.”**
 
